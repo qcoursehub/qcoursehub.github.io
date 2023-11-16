@@ -8,3 +8,12 @@
 .mainstyle {
     font-family: 'QCH';
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 2vw;
+  }
