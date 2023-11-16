@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'QCH';
+    src: url('/LibreFranklin-VariableFont_wght.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+.mainstyle {
+    font-family: 'QCH';
+}
